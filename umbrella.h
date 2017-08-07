@@ -52,6 +52,7 @@
 #import <unicode/urep.h>
 #import <unicode/ures.h>
 #import <unicode/uscript.h>
+#import <unicode/usearch.h>
 #import <unicode/uset.h>
 #import <unicode/ushape.h>
 #import <unicode/usprep.h>
