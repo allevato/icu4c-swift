@@ -24,7 +24,6 @@
 #import <unicode/ptypes.h>
 #import <unicode/putil.h>
 #import <unicode/ubidi.h>
-#import <unicode/ubiditransform.h>
 #import <unicode/ubrk.h>
 #import <unicode/ucasemap.h>
 #import <unicode/ucat.h>
@@ -42,7 +41,6 @@
 #import <unicode/uidna.h>
 #import <unicode/uiter.h>
 #import <unicode/uldnames.h>
-#import <unicode/ulistformatter.h>
 #import <unicode/uloc.h>
 #import <unicode/umachine.h>
 #import <unicode/umisc.h>
